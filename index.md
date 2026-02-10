@@ -10,6 +10,8 @@ title: 宁静的小村
   </p>
 </div>
 
+![首页照片](/assets/images/IMG_7864.jpg)
+
 ## 最新文章
 下面是《申命记》主日学的讲义（按时间自动排列）：
 - [申命记主日学课程（PDF）](/deuteronomy/)
