@@ -1,6 +1,6 @@
 ---
 layout: home
-title: 宁静的小村
+title: 滨海的小村
 ---
 
 <div class="site-hero">
