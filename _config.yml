@@ -1,0 +1,12 @@
+title: 宁静的小村
+description: 圣经默想 · 神学札记 · 信仰随笔
+theme: minima
+
+lang: zh-CN
+timezone: America/New_York
+
+header_pages:
+  - index.md
+  - about.md
+
+show_excerpts: true
