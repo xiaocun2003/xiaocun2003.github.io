@@ -10,4 +10,4 @@ permalink: /deuteronomy/
 - [绪 论](/courses/deuteronomy/Wu_申命记_00绪论.pdf)
 - [第 1 课](/courses/deuteronomy/Wu_申命记_第01章.pdf)
 - [第 2 课](/courses/deuteronomy/Wu_申命记_第02章.pdf)
-- [第 3 课](/courses/deuteronomy/Wu_申命记_第02章.pdf)
+- [第 3 课](/courses/deuteronomy/Wu_申命记_第03章.pdf)
