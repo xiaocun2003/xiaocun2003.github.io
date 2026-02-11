@@ -15,3 +15,5 @@ title: 滨海的小村
 ## 最新文章
 下面是《申命记》主日学的讲义（按章节顺序排列）：
 - [申命记主日学课程（PDF）](/deuteronomy/)
+
+![访问量](https://visitor-badge.laobi.icu/badge?page_id=xiaocun2003.github.io)
