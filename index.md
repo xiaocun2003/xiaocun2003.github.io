@@ -4,8 +4,7 @@ title: 滨海的小村
 ---
 
 <div class="site-hero">
-  <p class="subtitle">在神话语的岸边停泊</p>
-  <p class="subtitle">A Little Seaside Village: A Place to Rest in God’s Word</p>
+  <p class="subtitle">圣经默想 · 神学札记 · 信仰随笔 | 在神话语的岸边停泊</p>
   <p class="lead">
     欢迎来到我的小小村落。愿这里的文字，帮助我们在主的话语中得安息、得光照、得更新。
   </p>
