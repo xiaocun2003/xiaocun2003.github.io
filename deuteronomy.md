@@ -16,3 +16,4 @@ permalink: /deuteronomy/
 - [第 6 课](/courses/deuteronomy/Wu_申命记_第06章.pdf){:data-event="pdf-download"}
 - [第 7 课](/courses/deuteronomy/Wu_申命记_第07章.pdf){:data-event="pdf-download"}
 - [第 8 课](/courses/deuteronomy/Wu_申命记_第08章.pdf){:data-event="pdf-download"}
+- [第 9 课](/courses/deuteronomy/Wu_申命记_第09章.pdf){:data-event="pdf-download"}
