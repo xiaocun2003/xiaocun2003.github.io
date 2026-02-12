@@ -13,5 +13,6 @@ permalink: /deuteronomy/
 - [第 3 课](/courses/deuteronomy/Wu_申命记_第03章.pdf){:data-event="pdf-download"}
 - [第 4 课](/courses/deuteronomy/Wu_申命记_第04章.pdf){:data-event="pdf-download"}
 - [第 5 课](/courses/deuteronomy/Wu_申命记_第05章.pdf){:data-event="pdf-download"}
+- [第 6 课](/courses/deuteronomy/Wu_申命记_第06章.pdf){:data-event="pdf-download"}
 - [第 7 课](/courses/deuteronomy/Wu_申命记_第07章.pdf){:data-event="pdf-download"}
 - [第 8 课](/courses/deuteronomy/Wu_申命记_第08章.pdf){:data-event="pdf-download"}
