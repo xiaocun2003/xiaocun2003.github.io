@@ -1,0 +1,62 @@
+.prose-cn{
+  max-width: 760px;
+  margin: 0 auto;
+  padding: 0 18px;
+
+  font-family: "Songti SC", "STSong", "Noto Serif CJK SC", serif;
+  font-size: 18px;
+  line-height: 1.9;
+  color: #222;
+}
+
+/* 标题 */
+.prose-cn .prose-title{
+  font-family: "Heiti SC", "PingFang SC", "Microsoft YaHei", sans-serif;
+  font-weight: 600;
+  margin: 28px 0 10px 0;
+}
+
+/* 日期/分类 */
+.prose-cn .prose-meta{
+  color: #666;
+  font-size: 14px;
+  margin-bottom: 18px;
+}
+
+/* 作者/落款 */
+.prose-cn .prose-sign{
+  font-family: "KaiTi", "STKaiti", serif;
+  font-size: 19px;
+  text-align: center;
+  margin: 10px 0 22px 0;
+  color: #555;
+}
+
+/* 段落 */
+.prose-cn p{
+  margin: 0 0 1.15em 0;
+}
+
+/* 引文（Markdown > ） */
+.prose-cn blockquote{
+  border-left: 4px solid #ddd;
+  padding: 10px 16px;
+  background: #fafafa;
+  margin: 18px 0;
+}
+.prose-cn blockquote p{
+  margin: 0.55em 0;
+}
+
+/* 分隔线（Markdown ---） */
+.prose-cn hr{
+  border: none;
+  border-top: 1px solid #ddd;
+  margin: 24px 0;
+}
+
+/* 手机端 */
+@media (max-width: 520px){
+  .prose-cn{ padding: 0 14px; font-size: 17px; }
+  .prose-cn .prose-sign{ font-size: 18px; }
+}
