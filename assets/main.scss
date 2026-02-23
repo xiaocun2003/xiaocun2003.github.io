@@ -1,13 +1,20 @@
 ---
 ---
 
+/* 导入 minima 主题默认样式 */
 @import "minima";
 
-/* ===== Chinese prose typography ===== */
+
+/* ============================================
+   中文散文出版风排版（prose_cn layout）
+   适用于 xiaocun2003.github.io
+   ============================================ */
+
+/* 整体文章容器 */
 .prose-cn{
-  max-width: 760px;
-  margin: 0 auto;
-  padding: 0 18px;
+  max-width: 720px;
+  margin-left: auto;
+  margin-right: auto;
 
   font-family: "Songti SC", "STSong", "Noto Serif CJK SC", serif;
   font-size: 18px;
@@ -15,36 +22,117 @@
   color: #222;
 }
 
-/* 作者/落款 */
-.prose-cn .prose-sign{
-  font-family: "KaiTi", "STKaiti", "Kaiti SC", serif;
-  font-size: 19px;
-  text-align: center;
-  margin: 10px 0 22px 0;
-  color: #555;
+
+/* 标题（黑体风格） */
+.prose-cn .post-title{
+  font-family: "Heiti SC", "PingFang SC", "Microsoft YaHei", sans-serif;
+  font-weight: 600;
+  letter-spacing: 0.02em;
+  line-height: 1.3;
+
+  margin-top: 10px;
+  margin-bottom: 10px;
 }
 
-/* 段落间距 */
-.prose-cn p{ margin: 0 0 1.15em 0; }
+
+/* 作者署名（楷体） */
+.prose-sign{
+  font-family: "KaiTi", "STKaiti", "Kaiti SC", serif;
+  font-size: 20px;
+  text-align: center;
+  color: #555;
+
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+
+
+/* 日期与分类 */
+.prose-cn .post-meta{
+  text-align: center;
+  font-size: 14px;
+  color: #777;
+
+  margin-bottom: 30px;
+}
+
+
+/* 正文容器宽度固定 */
+.prose-cn .post-content{
+  max-width: 720px;
+}
+
+
+/* 段落格式（书籍风格） */
+.prose-cn p{
+  margin-top: 0;
+  margin-bottom: 1.2em;
+
+  text-align: justify;
+}
+
+
+/* 如果你希望首行缩进，请取消下面注释 */
+/*
+.prose-cn p{
+  text-indent: 2em;
+}
+*/
+
 
 /* 引文（Markdown > ） */
 .prose-cn blockquote{
   border-left: 4px solid #ddd;
-  padding: 10px 16px;
-  background: #fafafa;
-  margin: 18px 0;
+
+  padding-top: 10px;
+  padding-bottom: 10px;
+  padding-left: 16px;
+  padding-right: 16px;
+
+  margin-top: 18px;
+  margin-bottom: 18px;
+
+  background-color: #fafafa;
+  color: #333;
 }
-.prose-cn blockquote p{ margin: 0.55em 0; }
+
+
+.prose-cn blockquote p{
+  margin-top: 0.5em;
+  margin-bottom: 0.5em;
+
+  text-indent: 0;
+}
+
 
 /* 分隔线（Markdown ---） */
 .prose-cn hr{
   border: none;
   border-top: 1px solid #ddd;
-  margin: 24px 0;
+
+  margin-top: 30px;
+  margin-bottom: 30px;
 }
 
-/* 手机端 */
-@media (max-width: 520px){
-  .prose-cn{ padding: 0 14px; font-size: 17px; }
-  .prose-cn .prose-sign{ font-size: 18px; }
+
+/* 图片居中 */
+.prose-cn img{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+
+/* 手机端优化 */
+@media (max-width: 768px){
+
+  .prose-cn{
+    max-width: 92%;
+    font-size: 17px;
+  }
+
+  .prose-sign{
+    font-size: 19px;
+  }
+
 }
