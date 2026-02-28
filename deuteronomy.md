@@ -18,4 +18,3 @@ permalink: /deuteronomy/
 - [第08课](/courses/deuteronomy/Wu_申命记_第08章.pdf){:data-event="pdf-download"}
 - [第09课](/courses/deuteronomy/Wu_申命记_第09章.pdf){:data-event="pdf-download"}
 - [第10课](/courses/deuteronomy/Wu_申命记_第10章.pdf){:data-event="pdf-download"}
-- 
