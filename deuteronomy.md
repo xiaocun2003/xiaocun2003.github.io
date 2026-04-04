@@ -7,7 +7,7 @@ permalink: /deuteronomy/
 这里提供的是《申命记》主日学课程资料（PDF）。欢迎下载、学习与分享。
 
 ## 📘 课程目录（PDF）
-- [绪  论](/courses/deuteronomy/Wu_申命记_00导论.pdf){:data-event="pdf-download"}
+- [导  论](/courses/deuteronomy/Wu_申命记_00导论.pdf){:data-event="pdf-download"}
 - [第01课](/courses/deuteronomy/Wu_申命记_第01章.pdf){:data-event="pdf-download"}
 - [第02课](/courses/deuteronomy/Wu_申命记_第02章.pdf){:data-event="pdf-download"}
 - [第03课](/courses/deuteronomy/Wu_申命记_第03章.pdf){:data-event="pdf-download"}
