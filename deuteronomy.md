@@ -20,3 +20,5 @@ permalink: /deuteronomy/
 - [第10课](/courses/deuteronomy/Wu_申命记_第10章.pdf){:data-event="pdf-download"}
 - [第11课](/courses/deuteronomy/Wu_申命记_第11章.pdf){:data-event="pdf-download"}
 - [第12课](/courses/deuteronomy/Wu_申命记_第12章.pdf){:data-event="pdf-download"}
+- [第13课](/courses/deuteronomy/Wu_申命记_第13章.pdf){:data-event="pdf-download"}
+- [第14课](/courses/deuteronomy/Wu_申命记_第14章.pdf){:data-event="pdf-download"}
